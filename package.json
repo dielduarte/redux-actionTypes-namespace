@@ -1,0 +1,18 @@
+{
+  "name": "redux-actiontypes-namespace",
+  "version": "0.1.0",
+  "description": "add nameSpaces to your global actionTypes in an easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dielduarte/redux-actionTypes-namespace.git"
+  },
+  "author": "Diel Duarte",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
