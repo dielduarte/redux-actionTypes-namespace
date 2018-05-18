@@ -1,4 +1,4 @@
-# redux-actionTypes-namespace
+# redux-actiontypes-namespace
 Add nameSpaces to your global actionTypes in an easy way
 
 ## How to use 
@@ -6,13 +6,13 @@ Add nameSpaces to your global actionTypes in an easy way
 First install
 
 ```js
-yarn add redux-actionTypes-namespace
+yarn add redux-actiontypes-namespace
 ```
 
 import `createActionTypes` function, example:
 
 ```js
-import createActionTypes from 'redux-actionTypes-namespace';
+import createActionTypes from 'redux-actiontypes-namespace';
 
 const actionTypes = [
   {
